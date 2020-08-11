@@ -1,6 +1,7 @@
 #TableroAjedrez{
 	-ms-user-select:none;
 }
+
 #TableroAjedrez tr, td{
 	text-align: center;
 	font-size: 40px;
